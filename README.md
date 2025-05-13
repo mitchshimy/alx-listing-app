@@ -33,6 +33,7 @@ npm install
 3. Run the development server
 npm run dev
 Then open http://localhost:3000 in your browser to view the application.
+```
 
 ##🛠️ Tech Stack
 -Next.js 13+
